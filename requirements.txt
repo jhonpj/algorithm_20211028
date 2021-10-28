@@ -1,0 +1,12 @@
+graphviz == 0.16
+requests == 2.18.4
+lipsum == 0.1.2
+psutil == 5.8.0
+psrecord == 1.2
+wheel == 0.30.0
+sqlitedict == 1.7.0
+beautifulsoup4 == 4.9.3
+svgpathtools == 1.4.1
+lxml == 4.6.2
+zhon == 1.1.5
+
