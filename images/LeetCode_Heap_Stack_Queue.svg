@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- XML声明-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--引用了外部的SVG DTD,DTD位于W3C,含有所有运行的SVG元素 -->
+<svg height="1606pt" viewBox="0.00 0.00 2103.5 1606.0" width="2104pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!--SVG代码以<svg>元素开始，以</svg>元素结束；
+width和height属性是SVG文档的宽度和高度；
+xmlns属性是SVG命名空间的声明，xmlns:xlink是命名空间前前缀；
+viewBox="0.00 0.00 2103.5 1606.0"  其中0.00 0.00表示x轴和y轴的真实位置，后面表示长和宽
+svg中所有尺寸为  原尺寸 * （实际viewport大小/viewBox视图大小）
+-->
+<g class="graph" id="graph0" transform="scale(1 1) rotate(0) translate(4 1552)">
+<!-- svg中<g>元素用来组织svg元素， 如果一组svg元素被g元素包裹了，
+你可以通过对g元素进行变换（transform），被g元素包裹的元素也将被变换;
+transform就是对g包裹的元素进行变换：
+平移变换transform="translate(4,1552)"  新坐标系的原点在原坐标系的(4,1552)处；
+rotate(0)旋转变换
+scala(1 1)伸缩变换，1 1分别表示x轴方向和y轴方向拉伸或缩小的比例因子
+skew歪斜变换：transform="skewX(x-angle)"或transform="skewY(y-angle)"
+matrix矩阵变换，transform="matrix(a b c d e f)"，这里的六个参数分别是变换矩阵中的六个参数
+-->
+    <title>
+        stone
+    </title>
+    <polygon fill=" white" points="-4,4 -4,-1552 2049.5,-1552 2049.5,4 -4,4",stroke="transparent"/>
+    <!--polygon是html5中提供的一个标签，使用该标签可以绘制不规则的图形，
+    points绘制图形的做标记，分别是(-4,4)、(-4,-1552)等等
+    fill设置封闭图形的充填颜色，stroke则是对边框进行渲染
+    style="fill:lime;stroke:purple;stroke-width:1；
+    -->
+    <g class="node" id ="node1">
+        <title>
+            Leetcode-堆栈队列
+        </title>
+        <g id="a_node1">
+            <a target="_parent" xlink:href="https://leetcode-cn.com/tag/" xlink:title="Leetcode-堆栈队列(105)">
+            <!--
+            html中<a>标签定义超链接，用于从一张页面链接到另一张页面；
+            a元素中的href属性，指链接的目标；
+            a元素中的target目标指规定在何处打开链接文档， target="_parent"指在当前窗口
+            -->
+            <polygon fill="orangered" points="1010.5,-1548 834.5,-1548 834.5,-1512 1010.5,-1512 1010.5,-1548" stroke="lightgrey"/>
+            <text fill=" white" font-family="Microsoft YaHei" font-size="14.00" text-anchor="middle" x="922.5" y="-1526.3">
+                Leetcode-堆栈队列(105)
+            </text>
+            </a>
+        </g>
+    </g>
+    <!--堆 -->
+    <g class="node" id="node2">
+        <title>
+            堆
+        </title>>
+        <!--
+        <polygon fill="lightslategray" points="173.5,...,-1476",stroke="lightgrey">
+        上面starke后确实/，导致下面堆13无法显示；
+        -->
+        <polygon fill="lightslategray" points="173.5,-1476 119.5,-1476 119.5,-1440 173.5,-1440 173.5,-1476" stroke="lightgrey"/>
+        <text fill="white" font-family="Microsoft YaHei" font-size="15.00" text-anchor="middle" x="146.5" y="-1454.9">
+            堆(13)
+        </text>
+    </g>
+    
+
+    <!-- Leetcode&#45;堆栈队列&#45;&gt;堆 -->
+    <g class="edge" id="edge1">
+        <title>
+        Leetcode-堆栈队列-&gt;堆
+        <!--&gt;表示转移字符 > -->
+        </title>
+        <path d="M834.38,-1523.81C707.5,-1515.91 466.11,-1499.3 261.5,-1476 235.53,-1473.04 206.41,-1468.73 183.97,-1465.19" stroke-width="3" fill="none" stroke="lightgrey"/>
+        <!--path属性分别定义文本路径或运动路径以及文本字符，即定义一个路径
+        d元素：引出路径
+        M(m) x y移动到(x,y),小写表示相对于上个坐标的位移；下同
+        L(l) x y画一条直线到(x,y)
+        H(h) x 水平画一条直线到x,
+        V(v) y 竖直画一条直线到y;
+        A(a) rx ry(圆弧半径) x-axis-rotation(相对于x轴旋转度) large-arc(0表示弧线小于180度，1表示大于) sweep(顺时针0还是逆时针1) x y ----- 画一段圆弧到（x，y）
+        Q(q) 贝赛尔曲线
+        stroke定义边界颜色
+        -->
+        <polygon fill="lightgrey" points="184.28,-1461.69 173.85,-1463.57 183.17,-1468.6 184.28,-1461.69" stroke="lightgrey"/>
+    </g>
+</g>
