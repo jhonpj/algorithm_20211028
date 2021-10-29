@@ -1,4 +1,6 @@
 1.配置git环境，与github关联
 VScodeo 安装git history、svg、chinese、git等插件；
 
-2.
+2.github使用技巧
+https://raw.githubusercontent.com/jhonpj/algorithm_20211028/master/README.md?raw=true 查看README.md的编写内容
+https://github.com/jhonpj/algorithm_20211028/find/master    find/master查看文件链表

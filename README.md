@@ -8,5 +8,5 @@
 > Tip:点击svg文件中的题目可以跳转到leetcode对应的做题页面；
 ### 1.堆栈队列
 <img src="https://github.com/jhonpj/algorithm_20211028/tree/master/images/LeetCode_Heap_Stack_Queue.svg"> 
-
+https://raw.githubusercontent.com/jhonpj/algorithm_20211028/tree/master/images/LeetCode_Heap_Stack_Queue.svg
 ### 2.
