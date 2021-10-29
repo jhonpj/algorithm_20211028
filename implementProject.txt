@@ -1,0 +1,4 @@
+1.配置git环境，与github关联
+VScodeo 安装git history、svg、chinese、git等插件；
+
+2.
