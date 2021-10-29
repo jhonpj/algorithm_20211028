@@ -7,6 +7,6 @@
 4. 将做过的题目放到user目录中，可以点亮题目；
 > Tip:点击svg文件中的题目可以跳转到leetcode对应的做题页面；
 ### 1.堆栈队列
-<img src="https://github.com/jhonpj/algorithm_20211028/main/images/LeetCode_Heap_Stack_Queue.svg"> 
+<img src="https://github.com/jhonpj/algorithm_20211028/tree/master/images/LeetCode_Heap_Stack_Queue.svg"> 
 
 ### 2.
