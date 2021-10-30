@@ -4,3 +4,7 @@ VScodeo 安装git history、svg、chinese、git等插件；
 2.github使用技巧
 https://raw.githubusercontent.com/jhonpj/algorithm_20211028/master/README.md?raw=true 查看README.md的编写内容
 https://github.com/jhonpj/algorithm_20211028/find/master    find/master查看文件链表
+
+如何在github的Readme上显示svg图片?
+    首先，在github上找到项目下svg图片路径，然后打开svg文件,此时会加载失败，网页有row关键字，点击就可以显示svg文件了；然后复制路径，放到Readme中；
+    
